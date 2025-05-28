@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems"
 
 linkedin: https://www.linkedin.com/in/warren-waddell-iii-4407a9280
-image: /assets/images/me.jpg
+image: /assets/images/ME.jpeg
 ---
