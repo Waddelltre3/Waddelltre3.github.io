@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Warren Waddell III
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
+  - "🎓 Sophomore, Mechatronics Engineering @ Morgan State University"
+  - "🔬 Research: Proactive Defense for Unforseen Adversarial Attacks"
+  - "📍 Based in Laurel, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/warren-waddell-iii-4407a9280
 image: /assets/images/me.jpg
 ---
