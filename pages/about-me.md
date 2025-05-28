@@ -4,35 +4,30 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Warren Waddell III
+  role: Sophomore, Mechatronics Engineering Major at Morgan State University
+  image: /assets/images/ME.jpeg
+  linkedin: https://www.linkedin.com/in/warren-waddell-iii-4407a9280
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a Sophomore studying Mechatronics Engineering at Morgan State University in Baltimore, Maryland. I expect to graduate in 2028.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My work explores proactive defense systems for unforseen adversarial attacks.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy learning about cars, excercising, and playing baseball.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🏎
+      title: Cars
+      description: I’ve loved cars from a young age and I enjoy watching them race at the drag strip.
+    - icon: ⚾️
+      title: Baseball
+      description: I enjoy watching and playing baseball at a high level.
+    - icon: 🏋🏽
+      title: Exercise
+      description: I love staying active and being consistent with excerise.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/ME.jpeg
+      caption: Professional Image
+   
 ---
