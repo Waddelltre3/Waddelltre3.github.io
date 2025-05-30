@@ -7,7 +7,7 @@ subtitle: Proactive Defense System for Unforeseen Adversarial Attacks
 project_title: "Proactive Defense System for Unforeseen Adversarial Attacks"
 
 problem: |
-  Today challenges in existing cyber defense systems are majorly reactive against known
+ Today challenges in existing cyber defense systems are majorly reactive against known
 adversarial attacks but not to unseen attacks. The growing concerns with current defense
 mechanisms are solely relying on static rules and predefined signatures to protect against
 threats. How can we improve defense systems to stay ahead of the constantly evolving threats?
