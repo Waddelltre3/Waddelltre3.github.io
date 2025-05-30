@@ -18,5 +18,5 @@ faculty_mentor:
   image: /assets/images/Dr.ClistonCole.jpeg
   website: linkedin.com/in/cliston-cole-ph-d
   bio: |
-  Exceptional leader talented with over 15 years experience in the Defense industry, Academia, Tech company and United States federal government agencies. Skilled Systems and Electronic Engineer, and Research Scientist with experience of weapon systems for DoD and signal processing systems. Energetic self-starter and team builder able to navigate high-stress situations and achieve goals on time. Yet what inspire others the most is my professionalism and my all-out work ethic and approach to complete projects and tasks in a timely manner.
+    Exceptional leader talented with over 15 years experience in the Defense industry, Academia, Tech company and United States federal government agencies. Skilled Systems and Electronic Engineer, and Research Scientist with experience of weapon systems for DoD and signal processing systems. Energetic self-starter and team builder able to navigate high-stress situations and achieve goals on time. Yet what inspire others the most is my professionalism and my all-out work ethic and approach to complete projects and tasks in a timely manner.
 ---
