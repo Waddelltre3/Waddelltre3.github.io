@@ -4,23 +4,19 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Olayinka Jolayemi
+  title: PhD Student, Secure Embedded Systems, Cyber Security Engineer, Electrical Engineer, Analyst
   image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  website: linkedin.com/in/jolayemi-olayinka-85b38268
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Olayinka Jolayemi is a gradate student in Secure Embedded Systems Engineering. He is a vibrant engineer who loves taking up challenging tasks and occupying positions that allows him add value to every organization and event that he is a part of.
+
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Cliston Cole
+  title: Assitant Professor at MSU, Electrical Engineer, Auditory Modeling, Speech Perception
   image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  website: linkedin.com/in/cliston-cole-ph-d
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
-
+  Exceptional leader talented with over 15 years experience in the Defense industry, Academia, Tech company and United States federal government agencies. Skilled Systems and Electronic Engineer, and Research Scientist with experience of weapon systems for DoD and signal processing systems. Energetic self-starter and team builder able to navigate high-stress situations and achieve goals on time. Yet what inspire others the most is my professionalism and my all-out work ethic and approach to complete projects and tasks in a timely manner.
 ---
