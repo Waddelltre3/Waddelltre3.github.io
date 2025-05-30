@@ -8,7 +8,7 @@ graduate_mentor:
   title: PhD Student, Secure Embedded Systems, Cyber Security Engineer, Electrical Engineer, Analyst
   image: /assets/images/Olayinka.jpeg
   website: linkedin.com/in/jolayemi-olayinka-85b38268
-  bio: |
+  bio: 
     Olayinka Jolayemi is a gradate student in Secure Embedded Systems Engineering. He is a vibrant engineer who loves taking up challenging tasks and occupying positions that allows him add value to every organization and event that he is a part of.
 
 
