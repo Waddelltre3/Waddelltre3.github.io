@@ -20,18 +20,17 @@ approach: |
   cyberattacks due to vulnerabilities being exploited in AI systems as a solution in cybersecurity
   applications.
 
-  In this proposed work, the goals are to (1) develop a meta-learning-based proactive defense
-  system to defend against unforeseen malicious adversarial attacks; (2) upload the codes used
-  for proactive defense system to IoT devices, and (3) to conduct test and evaluation (T&E) to
-  measure their performances against unforeseen attacks in real-time. In this project, we will implement meta-learning-
-  enabled adversarial training (Meta-Adv) model, which is the framework for implementing     
-  Proactive Defense System to improve predicting unforeseencyberattacks. The goals can be achieved by the following 
-  objectives: (1) to access benchmark datasets for adversarial training and testing; (2) the implementation of meta-
-  training of the Meta- Adv model; (3) the implementation of meta-testing of the Meta-Adv model; (4) conduct T&E to 
-  analyze the accuracy against attacks on benchmark datasets; (5) to convert the Python-based Meta-Adv model to C++;   
-  (6) upload C++-based Meta-Adv model to IoT devices; and (7) to execute T&E plan on IoT devices and measure their 
-  performances against unforeseen attacks. Successful completion will lead to potential answers for developing defense 
-  strategies against novel attacks.
+  In this proposed work, the goals are to (1) develop a meta-learning-based proactive defense system to defend against 
+  unforeseen malicious adversarial attacks; (2) upload the codes used for proactive defense system to IoT devices, and
+  (3) to conduct test and evaluation (T&E) to measure their performances against unforeseen attacks in real-time. In   
+  this project, we will implement meta-learning- enabled adversarial training (Meta-Adv) model, which is the framework
+  for implementing Proactive Defense System to improve predicting unforeseencyberattacks. The goals can be achieved by 
+  the following objectives: (1) to access benchmark datasets for adversarial training and testing; (2) the 
+  implementation of meta-training of the Meta- Adv model; (3) the implementation of meta-testing of the Meta-Adv 
+  model; (4) conduct T&E to analyze the accuracy against attacks on benchmark datasets; (5) to convert the Python-
+  based Meta-Adv model to C++; (6) upload C++-based Meta-Adv model to IoT devices; and (7) to execute T&E plan on IoT 
+  devices and measure their performances against unforeseen attacks. Successful completion will lead to potential 
+  answers for developing defense strategies against novel attacks.
 
 outcome: |
   The outcomes of this program will equip participants with advanced skills in communication
@@ -44,7 +43,7 @@ outcome: |
   security solutions for IoT safety and the protection of data information across data links in
   communication networks.
   
-final_report_url: ""
+final_report_url: 
 
 grad_mentor:
   name: Olayinka Jolayemi
