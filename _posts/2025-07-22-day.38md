@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Day 38 - Finished Overleaf Paper"
+date: 2025-07-22
+author: Warren Waddell III
+permalink: /day38.html
+tags: [" Python, Lab Work"]
+
+what_i_learned: |
+  Today I was able to finish my part of the research paper in overleaf. There are some parts that my grad student mentor will be bale to look over to make sure that it is good but so far everything is moving along fine. We also had to create an elevator pitch video that is due on thurday and my job is basically edit the video. We already did the parts that the entire group was in but now we just need the speaker part to finish the video.
+blockers: |
+  No Blockers
+reflection: |
+  Today felt extremely productive when it came to our work and everyone was able to finish thier parts of the research paper. Now we just need to work on transfering out code over to the IoT devices. We won't really be able to run the amount of epochs that we are looking for so the results will not be perfect but we have suffiient results. I think by the end of the week we will be ready to test on the devices.
+---
